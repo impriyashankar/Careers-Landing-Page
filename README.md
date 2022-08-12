@@ -4,9 +4,11 @@
 This page was one of the first draft layouts developed for the internal careers page of Inception Business Services.
 
 
+
 ## Technologies Used
 - HTML
 - CSS
+- jQuery -> Was used to add subtle fade effects to the page's elements.
 
 
 ## Screenshots
